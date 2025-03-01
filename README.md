@@ -2,7 +2,7 @@
 big data code
 한국외대 빅데이터 월456 수업 발표자료를 위한 github 주소입니다.
 
-##프로젝트 개요
+## 프로젝트 개요
 사피어-워프의 가설에 의하면 인간은 언어에 의해 사고가 지배당한다.
 유명한 예로 이누이트어의 눈(snow)에 관한 것이 있다.
 이누이트어에서는 눈(snow)을 표현하는 다양한 단어가 있다.
@@ -17,11 +17,11 @@ big data code
 
 이러한 인식의 차이를 구별하고, 시각화하기 위해 프로젝트를 시작하게 되었다.
 
-##프로젝트 목표
+## 프로젝트 목표
 - 여러 나라의 화자들이 색을 보고 구별한 데이터 셋을 통해 각국의 색깔의 바운더리를 선으로 나타낸다.
 - 같은 색이라고 판단한 색의 chip들을 같은 직선 내에 넣는다.
 
-##data set
+## data set
 raw_data 출처 : https://linguistics.berkeley.edu/wcs/data.html#wmt 
 raw_data = WCS의 data, 총 8개 파일 
 merged_data => raw_data 병합 후 data set
