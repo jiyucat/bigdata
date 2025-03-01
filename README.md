@@ -10,6 +10,7 @@ big data code
 - 바람에 휩쓸려온 눈(wind-driven snow)
 - 녹기 시작한 눈(slushy snow)
 - 땅 위에 있는 눈(snow on the ground)
+
 색깔도 마찬가지이다. 같은 색을 보더라도 구분하는 단어의 존재가 모두 다르기 때문에 다르게 구분한다.
 그리스와 러시아에서는 ‘파란색’을 칭하는 단어는 없지만, '밝은 파란색'과 '짙은 파란색'을 칭하는 단어는 있다.
 선행 연구에 의하면 색깔을 지칭하는 단어의 차이는 색을 구별하는 능력에도 영향을 미친다. 가령 밝은 파란색과 짙은 파란색을 의미하는 단어를 가진 러시아인은 이런 단어가 없는 미국인보다 두 색을 식별해내는 속도가 빠르다.
@@ -20,6 +21,11 @@ big data code
 ## 프로젝트 목표
 - 여러 나라의 화자들이 색을 보고 구별한 데이터 셋을 통해 각국의 색깔의 바운더리를 선으로 나타낸다.
 - 같은 색이라고 판단한 색의 chip들을 같은 직선 내에 넣는다.
+
+## 프로젝트 결과 미리보기
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/e5e640ad-8ca2-4d82-918e-886cc802b157" />
+![image](https://github.com/user-attachments/assets/6cb7e0a2-d1c5-4678-b53e-50f35ce33fab)
+
 
 ## data set
 raw_data 출처 : https://linguistics.berkeley.edu/wcs/data.html#wmt 
