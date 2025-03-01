@@ -24,7 +24,8 @@ big data code
 
 ## 프로젝트 결과 미리보기
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/e5e640ad-8ca2-4d82-918e-886cc802b157" />
-![image](https://github.com/user-attachments/assets/6cb7e0a2-d1c5-4678-b53e-50f35ce33fab)
+<img width="681" alt="image" src="https://github.com/user-attachments/assets/dfd97a37-e918-4a2b-b3dc-ce72ca556143" />
+
 
 
 ## data set
